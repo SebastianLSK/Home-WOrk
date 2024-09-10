@@ -9,3 +9,5 @@
 * Высокая точность поиска
 * Высокая скорость поиска
 * Низкая цена
+
+* ![MuaKissGIF](https://github.com/user-attachments/assets/f679f982-5662-44d6-bf49-2bbd744a72d3)
